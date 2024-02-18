@@ -1,6 +1,7 @@
 
 using Homework2.RepoManagment.IRepository;
 using Homework2.RepoManagment.Repository;
+using Homework2.Services.ShowStudentsDish;
 
 namespace Homework2
 {
@@ -18,6 +19,7 @@ namespace Homework2
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IBuffetRepository, BuffetRepository>();
             builder.Services.AddScoped<IStudentsRepository, StudentsRepository>();
+            builder.Services.AddScoped<IShowAllStudentsDishService, ShowAllStudentsDishService>();
 
             var app = builder.Build();
 
