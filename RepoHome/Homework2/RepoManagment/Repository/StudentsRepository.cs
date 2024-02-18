@@ -17,10 +17,10 @@ namespace Homework2.RepoManagment.Repository
             try
             {
                 Connection = new NpgsqlConnection(connectionString);
-                Connection.Execute("create table Students(id int, Name varchar(255),LaunchId int,DinnerId int);");
-                Connection.Execute("insert into Students values(1,'Abdukholiq',1,2)," +
-                                                              "(2,'Abdulloh',2,3)," +
-                                                              "(3,'Izzat',1,1);");
+                Connection.Execute("create table Students(id serial, Name varchar(255),LaunchId int,DinnerId int);");
+                Connection.Execute("insert into Students(name,launchId,dinnerId) values('Abdukholiq',1,2)," +
+                                                              "('Abdulloh',2,3)," +
+                                                              "('Izzat',1,1);");
             }
             catch { }
         }

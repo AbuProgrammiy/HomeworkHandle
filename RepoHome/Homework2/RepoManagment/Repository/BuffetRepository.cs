@@ -15,10 +15,10 @@ namespace Homework2.RepoManagment.Repository
             Connection = new NpgsqlConnection(connectionString);
             try
             {
-                Connection.Execute("create table Buffet(id int,DishName varchar(255),Description text);");
-                Connection.Execute("insert into Buffet values(1,'Spagetti','Talabalrning yoqimli tushligi')," +
-                                                            "(2,'Makaron','Juda mazali va goshlari kop')," +
-                                                            "(3,'Hotlanch','Pul Ekonom qilish uchun');");
+                Connection.Execute("create table Buffet(id serial,DishName varchar(255),Description text);");
+                Connection.Execute("insert into Buffet(dishName,description) values('Spagetti','Talabalrning yoqimli tushligi')," +
+                                                            "('Makaron','Juda mazali va goshlari kop')," +
+                                                            "('Hotlanch','Pul Ekonom qilish uchun');");
 
             }
             catch { }
