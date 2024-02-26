@@ -5,9 +5,9 @@ namespace Bi1Market.Infrastructure.DatabseRepository.IRepositories
 {
     public interface IProductRepository
     {
-        //public string Create(ProductDTO productDTO);
-        //public IEnumerable<Product> GetAll();
-        //public string Update(int id, ProductDTO productDTO);
-        public string Delete(int id);
+        public Task<string> Create(ProductDTO productDTO);
+        public Task<IEnumerable<Product>> GetAll();
+        public Task<string> Update(int id, ProductDTO productDTO);
+        public Task<string> Delete(int id);
     }
 }

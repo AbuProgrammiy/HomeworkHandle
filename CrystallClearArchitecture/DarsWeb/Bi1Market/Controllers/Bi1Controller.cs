@@ -16,28 +16,28 @@ namespace Bi1Market.Controllers
             _context = context;
         }
 
-        //[HttpPost]
-        //public string Create(ProductDTO productDTO)
-        //{
-        //    return _context.Create(productDTO);
-        //}
+        [HttpPost]
+        public string Create(ProductDTO productDTO)
+        {
+            return  _context.Create(productDTO).GetAwaiter().GetResult();
+        }
 
-        //[HttpGet]
-        //public IEnumerable<Product> GetAll()
-        //{
-        //    return _context.GetAll();
-        //}
+        [HttpGet]
+        public IEnumerable<Product> GetAll()
+        {
+            return _context.GetAll().GetAwaiter().GetResult();
+        }
 
-        //[HttpPut]
-        //public string Update(int id, ProductDTO productDTO)
-        //{
-        //    return _context.Update(id, productDTO);
-        //}
+        [HttpPut]
+        public string Update(int id, ProductDTO productDTO)
+        {
+            return _context.Update(id, productDTO).GetAwaiter().GetResult();
+        }
 
-        //[HttpDelete]
-        //public string Delete(int id)
-        //{
-        //    return _context.Delete(id);
-        //}
+        [HttpDelete]
+        public string Delete(int id)
+        {
+            return  _context.Delete(id).GetAwaiter().GetResult();
+        }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\BiOneMar
 C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\refint\BiOneMarket.Application.dll
 C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\BiOneMarket.Application.pdb
 C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\ref\BiOneMarket.Application.dll
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\BiOneMarket.Application.csproj.AssemblyReference.cache

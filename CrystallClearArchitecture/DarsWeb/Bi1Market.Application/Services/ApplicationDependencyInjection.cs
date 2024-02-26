@@ -1,4 +1,4 @@
-﻿using Bi1Market.Infrastructure.DatabseRepository.IRepositories;
+﻿using BiOneMarket.Infrastructure.DatabseRepository.IRepositories;
 using BiOneMarket.Infrastructure.DatabseRepository.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
