@@ -13,4 +13,3 @@ namespace BiOneMarket.Infrastructure.Services
         }
     }
 }
-s
