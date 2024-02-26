@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\bin\Debug\net8.0\Bi1Market.Application.deps.json
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\bin\Debug\net8.0\Bi1Market.Application.dll
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\bin\Debug\net8.0\Bi1Market.Application.pdb
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.dll
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\refint\Bi1Market.Application.dll
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\Bi1Market.Application.pdb
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market.Application\obj\Debug\net8.0\ref\Bi1Market.Application.dll

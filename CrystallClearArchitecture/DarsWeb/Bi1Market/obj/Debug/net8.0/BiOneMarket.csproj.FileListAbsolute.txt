@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\source\repos\DarsWeb\Bi1Market\obj\Debug\net8.0\BiOneMarket.MvcApplicationPartsAssemblyInfo.cache

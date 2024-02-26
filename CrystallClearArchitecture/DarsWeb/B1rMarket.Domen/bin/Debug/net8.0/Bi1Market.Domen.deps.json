@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bi1Market.Domen/1.0.0": {
+        "runtime": {
+          "Bi1Market.Domen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bi1Market.Domen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

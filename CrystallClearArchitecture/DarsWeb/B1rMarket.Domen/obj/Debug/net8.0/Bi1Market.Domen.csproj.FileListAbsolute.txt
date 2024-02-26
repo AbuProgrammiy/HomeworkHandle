@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\bin\Debug\net8.0\Bi1Market.Domen.deps.json
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\bin\Debug\net8.0\Bi1Market.Domen.dll
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\bin\Debug\net8.0\Bi1Market.Domen.pdb
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.dll
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\refint\Bi1Market.Domen.dll
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\Bi1Market.Domen.pdb
+C:\Users\Hp\source\repos\DarsWeb\B1rMarket.Domen\obj\Debug\net8.0\ref\Bi1Market.Domen.dll

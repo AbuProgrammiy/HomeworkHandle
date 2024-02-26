@@ -1,0 +1,6 @@
+@Bi1Market_HostAddress = http://localhost:5198
+
+GET {{Bi1Market_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

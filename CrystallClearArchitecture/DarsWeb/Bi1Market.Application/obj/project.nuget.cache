@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXs2VE2BaeSpINuJB5VKluJ6x3g+fNTj5dDf3UrHAsSkr2HXL5HQpqpIqLyMi4Kg1YyJ8lfzb5+cQT+CKL/s1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\DarsWeb\\Bi1Market.Application\\BiOneMarket.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
