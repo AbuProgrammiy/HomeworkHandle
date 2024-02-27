@@ -1,1 +1,1 @@
-# Dovaylatvomman hozir)
+# Sip-Silliq ishlavotti)
