@@ -1,1 +1,1 @@
-# Dvaylatvomman hozir)
+# Dovaylatvomman hozir)
