@@ -1,1 +1,1 @@
-# Chocotella is being perepered!
+# Chocotella is ready!
