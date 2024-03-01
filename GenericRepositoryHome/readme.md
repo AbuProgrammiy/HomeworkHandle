@@ -1,0 +1,1 @@
+# Chocotella tayyor bo'votti
