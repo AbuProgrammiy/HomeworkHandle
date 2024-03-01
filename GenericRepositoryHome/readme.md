@@ -1,1 +1,1 @@
-# Chocotella tayyor bo'votti
+# Chocotella tayyor 
