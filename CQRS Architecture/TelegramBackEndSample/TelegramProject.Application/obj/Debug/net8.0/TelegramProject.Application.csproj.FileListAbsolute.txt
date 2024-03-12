@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\bin\Debug\net8.0\TelegramProject.Application.deps.json
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\bin\Debug\net8.0\TelegramProject.Application.dll
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\bin\Debug\net8.0\TelegramProject.Application.pdb
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\bin\Debug\net8.0\TelegramProject.Domain.dll
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\bin\Debug\net8.0\TelegramProject.Domain.pdb
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.csproj.CopyComplete
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.dll
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\refint\TelegramProject.Application.dll
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\TelegramProject.Application.pdb
+C:\Users\Hp\source\repos\TelegramBackEndSample\TelegramProject.Application\obj\Debug\net8.0\ref\TelegramProject.Application.dll
