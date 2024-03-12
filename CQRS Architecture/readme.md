@@ -1,2 +1,2 @@
 ## Uy ishi tayyor!
-### Barcha shartlarga bajarilgan) 
+### Barcha shartlar bajarilgan) 
