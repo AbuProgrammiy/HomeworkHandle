@@ -1,2 +1,2 @@
-### Link Tashash esimdan chiqip qomasligi uchun tashab qoydm)
-#### DeadLinegacha tayyor bop qoladi)
+### Pacti hammasi tayyor
+#### Hozir yuklab qoyaman 15-min around
