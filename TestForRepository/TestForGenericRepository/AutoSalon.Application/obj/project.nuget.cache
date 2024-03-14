@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xv+NkkCprs5A+huDvqcdRYqU42tt3WK69yoNnvfrOPIYv7Aazbc8bZPpaF/XB+32ZnA784geHgADtTWcQ+iug==",
+  "success": true,
+  "projectFilePath": "D:\\Evacuation\\TestForGenericRepository\\AutoSalon.Application\\AutoSalon.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
