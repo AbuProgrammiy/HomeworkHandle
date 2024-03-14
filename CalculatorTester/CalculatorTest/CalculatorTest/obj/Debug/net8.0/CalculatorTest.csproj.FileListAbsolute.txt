@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\bin\Debug\net8.0\CalculatorTest.exe
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\bin\Debug\net8.0\CalculatorTest.deps.json
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\bin\Debug\net8.0\CalculatorTest.runtimeconfig.json
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\bin\Debug\net8.0\CalculatorTest.dll
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\bin\Debug\net8.0\CalculatorTest.pdb
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.dll
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\refint\CalculatorTest.dll
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.pdb
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\CalculatorTest.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CalculatorTest\CalculatorTest\obj\Debug\net8.0\ref\CalculatorTest.dll
