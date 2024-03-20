@@ -1,0 +1,80 @@
+.mainbox{
+    margin-left: 502px;
+}
+.title{
+    background-color: #DE8704;
+    width: 500px;
+    height: 50px;
+}
+.footer{
+    background-color: #DE8704;
+    width: 500px;
+    height: 50px;
+}
+.body{
+    background-color: #222536;
+    width: 500px;
+    height: 500px;
+}
+.signup{
+    color:#C6C936; 
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.inputForFL{
+    color: #C6C936;
+    padding-left: 100px;
+    padding-top: 15px;
+}
+.inputForD{
+    color: #C6C936;
+    padding-left: 85px;
+    padding-top: 15px;
+}
+.inputForG{
+    color: #C6C936;
+    padding-left: 122px;
+    padding-top: 15px;
+}
+.inputForC{
+    color: #C6C936;
+    padding-left: 120px;
+    padding-top: 15px;
+}
+.inputForE{
+    color: #C6C936;
+    padding-left: 125px;
+    padding-top: 15px;
+}
+.inputForP{
+    color: #C6C936;
+    padding-left: 130px;
+    padding-top: 15px;
+}
+.inputForPs{
+    color: #C6C936;
+    padding-left: 110px;
+    padding-top: 15px;
+}
+.inputForCPs{
+    color: #C6C936;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+label {
+    margin-right: 20px; 
+}
+
+.submit{
+    background-color: #62AF5E;
+    width: 80px;
+    height: 40px;   
+    margin-left: 300px;
+    margin-top: 3px;             
+}
+.cancel{
+    background-color: #D9544F;
+    width: 80px;
+    height: 40px;   
+    margin-top: 3px;             
+}
