@@ -1,0 +1,94 @@
+body{
+    background-image: url(https://images.alphacoders.com/129/1291249.png);
+}
+.main{
+    width: 600px;
+    height: 300px;
+    background-color: #313338;
+    border-radius: 5px;
+    position: relative;
+    top: 200px;
+    left: 450px;
+}
+.welcome{
+    color: white;
+    font-family: calibri;
+    position: relative;
+    font-size: 20px;
+    top: 30px;
+    left: 100px;
+}
+.description{
+    color: gray;
+    font-size: 14px;
+    font-family: calibri;
+    position: relative;
+    left: 66px;
+    top: 10px;
+}
+
+.email{
+    color: rgb(163, 163, 163);
+    font-size: 12px;
+    font-family: calibri;
+    position: relative;
+    left: 25px;
+    top: 5px;
+}
+
+.emailInput{
+    color:white;
+    background-color: black;
+    border-radius: 3px;
+    width: 275px;
+    height: 25px;
+    position: relative;
+    left: 25px;
+}
+
+.faq{
+    color: #5865F2;
+    font-family: calibri;
+    font-size: 12px;
+    position: relative;
+    left: 27px;
+    bottom: 8px;
+}
+
+.loginBtn{
+    font-family: calibri;
+    font-size: 15px;
+    background-color: #5865F2;
+    color: white;
+    position: relative;
+    left: 25px;
+    width: 285px;
+    height: 30px;
+    bottom: 130px;
+}
+
+.qr{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 200px;
+    left: 110px;
+}
+
+.loginQR{
+    color: white;
+    font-size: 20px;
+    font-family: calibri;
+    position: relative;
+    left: 390px;
+    bottom: 220px;
+}
+
+.descQr{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+    position: relative;
+    bottom: 230px;
+    left: 175px;
+}

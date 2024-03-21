@@ -1,1 +1,1 @@
-### Tayyor bob qoldi!)
+### Uy ishi tayyor!
