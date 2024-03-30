@@ -1,58 +1,217 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <title>Online Shop</title>
-    <link rel="icon" href="assets/images/shop Icon.png">
+    <title>Visma</title>
+    <link rel="icon" href="assets/images/visma_icon.png">
+    <!--       ^^^^ -> iconka uchun-->
+    <link rel="stylesheet" href="assets/header-styles.css">
+    <link rel="stylesheet" href="assets/main-window-1.css">
+    <link rel="stylesheet" href="assets/main-window-2.css">
+    <link rel="stylesheet" href="assets/main-window-3.css">
+    <link rel="stylesheet" href="assets/main-window-4.css">
+    <!--       ^^^^^^^^^^ -> stylesheet uchun-->
+
 </head>
 
 <body>
-    <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
-        <div class="sm:mx-auto sm:w-full sm:max-w-sm">
-            <img class="mx-auto h-10 w-auto" src="assets/images/shop Icon.png"
-                alt="Your Company">
-            <h2 class="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Online kiyim do'kondan foydalanish uchun registratsiyadan o'ting</h2>
+    <div class="header">
+        <!--    ^^^^^^ -> header-->
+        <img class="header-logo" src="assets/images/visma_logo.png">
+        <!--        ^^^^^^^^^^^ -> headerdagi logo uchun-->
+
+        <ul class="header-directions">
+            <!--       ^^^^^^ -> header javhalari uchun-->
+            <li><a href="">Главная</a></li>
+            <li><a href="">Контенты</a></li>
+            <li><a href="">Калькулятор</a></li>
+            <li><a href="">Новости</a></li>
+        </ul>
+
+        <img class="header-serach-icon" src="assets/images/search_icon.png">
+        <!--         ^^^^^^^^^^^^^ -> search icon uchun-->
+
+        <input class="header-search-input" type="text">
+        <!--          ^^^^^^^^^^^^ -> headerdagi input-->
+
+        <select class="header-select-lang">
+            <!--       ^^^^^^^^^^^^^^^^^^ -> headerdagi til tanlash menyusi(drpdown menu)-->
+            <option>RU</option>
+            <option>UZ</option>
+            <option>KZ</option>
+        </select>
+    </div>
+
+    <div class="main-window-1">
+        <!--    ^^^^^^^^^^^^^ -> asosiy pageni main windowi-->
+        <div class="central-text">
+            <!--    asosiy menudagi testlar-->
+            <p class="header-text">Тавимский морской порт VISMA</p>
+            <p class="description-text">Vel posuere nibh odio placerat massa vel tellus <br>
+                tortor. Varius eget nunc scelerisque etiam felis <br>
+                facilisi ante viverra sem. Nunc eros elementum</p>
+            <a href="#Next-Page">
+                <p class="pointer-text">О КОМАПАНИИ</p>
+                <!--      ^^^^^^^^^^ -> O Kompanii texti uchun-->
+                <img class="pointer-circle" src="assets/images/right_arrow_circle.png">
+                <img class="pointer-arrow" src="assets/images/right_arrow.png">
+            </a>
         </div>
 
-        <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
-            <form class="space-y-6" action="welcomePage.html" method="Get">
-                <div>
-                    <label for="email" class="block text-sm font-medium leading-6 text-gray-900">Email address</label>
-                    <div class="mt-2">
-                        <input id="email" name="email" type="email" autocomplete="email" required
-                            class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
-                    </div>
-                </div>
-
-                <div>
-                    <div class="flex items-center justify-between">
-                        <label for="password" class="block text-sm font-medium leading-6 text-gray-900">Password</label>
-                        <div class="text-sm">
-                            <a href="passwordForgotten.html" class="font-semibold text-indigo-600 hover:text-indigo-500">Forgot password?</a>
-                        </div>
-                    </div>
-                    <div class="mt-2">
-                        <input id="password" name="password" type="password" autocomplete="current-password" required
-                            class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
-                    </div>
-                </div>
-
-                <div>
-                    <button type="submit"
-                        class="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Sign
-                        in</button>
-                </div>
-            </form>
-
-            <p class="mt-10 text-center text-sm text-gray-500">
-                Not a member?
-                <a href="mainPage.html" class="font-semibold leading-6 text-indigo-600 hover:text-indigo-500">Start a 14 day free
-                    trial</a>
-            </p>
+        <div class="main-boxes main-boxes-1">
+            <!--    ^^^^^^^^^^^^^^^^^^^^^^^ -> main windowdagi 4ta box uchun-->
+            <p class="services-text">УСЛУГИ</p>
+            <p class="services-description-text">Погрузочно-разгрузочная деятельность</p>
         </div>
+        <div class="main-boxes main-boxes-2">
+            <p class="services-text">УСЛУГИ</p>
+            <p class="services-description-text">Хранение <br> грузов</p>
+        </div>
+        <div class="main-boxes main-boxes-3">
+            <p class="services-text">УСЛУГИ</p>
+            <p class="services-description-text">Складские <br> операции</p>
+        </div>
+        <div class="main-boxes main-boxes-4">
+            <p class="services-text">УСЛУГИ</p>
+            <p class="services-description-text">Швартовые <br> операции</p>
+        </div>
+    </div>
+
+    <div class="main-window-2">
+        <!--    ^^^^^^^^^^^^^ -> asosiy pageni main windowi-2-->
+        <div class="service-links">
+            <p class="services-text-header">Услуги</p>
+            <a class="services-text-description-link" href="">
+                <p class="services-text-description">Тарифы на услуги по обеспечению <br> контроля доступа на территорию
+                    <br> VISMA на 2022 год
+                </p>
+            </a>
+            <button class="services-text-description-button-1">PDF</button>
+            <!-- ^^^^^^^^^^^^ -> Main-Window-2 dagi linklar-->
+
+            <a class="services-text-description-link" href="">
+                <p class="services-text-description">Условия определения цены <br> договора и тарифы на работы</p>
+            </a>
+            <button class="services-text-description-button-2">PDF</button>
+
+            <a class="services-text-description-link" href="">
+                <p class="services-text-description">Договор перевалки <br> (типовая форма)</p>
+            </a>
+            <button class="services-text-description-button-2">PDF</button>
+        </div>
+        <div class="service-directions">
+            <!--    ^^^^^^^^^^^^^^^^^^^ -> main window 2 ni 2-parti-->
+            <div class="service-directions-boxes service-directions-boxes-navigator-1">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Хранение грузов</p>
+            </div>
+
+            <div class="service-directions-boxes service-directions-boxes-navigator-2">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Швартовые операции</p>
+            </div>
+
+            <div class="service-directions-boxes service-directions-boxes-navigator-3">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Складские операции</p>
+            </div>
+
+            <div class="service-directions-boxes service-directions-boxes-navigator-4">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Агентское обслуживание судов</p>
+            </div>
+
+            <div class="service-directions-boxes service-directions-boxes-navigator-5">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Буксировка/сопровождение судов</p>
+            </div>
+
+            <div class="service-directions-boxes service-directions-boxes-navigator-6">
+                <p class="service-directions-header">УСЛУГИ</p>
+                <p class="service-directions-description">Погрузочно-разгрузочная деятельность</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-window-3">
+        <!--    ^^^^^^^^^^^^^ - asosiy pageni 3-main windowi-->
+        <h2 class="about-header">О компании</h2>
+        <!--       asosiy pageni description bolimini headeri-->
+        <p class="about-text-1">
+            Tristique orci consectetur sit felis. Sed ac auctor tellus lobortis. Enim non turpis nulla nec a <br>
+            sapien sit amet molestie. Et id malesuada gravida sit volutpat. Volutpat sed lectus <br>
+            ementum diam neque facilisis in. Convallis nibh sem in viverra quis. Interdum pharetra. <br><br>
+            Libero nunc porttitor id mi convallis ultricies convallis erat. At sagittis nisi at in diam sit. <br><br>
+        </p>
+
+        <ul class="description-list">
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus. Vivamus tincidunt non <br>
+                lectus odio magna semper odio risus.Vivamus tincidunt non lectus odio magna semper <br>
+                odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+        </ul>
+
+        <p class="about-text-2">
+            Quam accumsan mauris enim quam. A commodo ultrices urna vitae nibh rhoncus at nisl. Duis <br>
+            nibh libero ut enim. Metus aliquam cursus molestie sapien risus. Suspendisse volutpat. <br><br>
+        </p>
+
+        <ul class="description-list">
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+            <li>Vivamus tincidunt non lectus odio magna semper odio risus.</li>
+        </ul>
+
+    </div>
+
+    <div class="main-window-4">
+        <!-- Novosti javhasi-->
+        <h1 class="news-header">Новости</h1>
+        <a href="">
+            <p class="allnews">все новости</p>
+            <img class="allnew-circle" src="assets/images/allnew_circle.png">
+            <img class="allnew-arrow" src="assets/images/allnews_arrow.png">
+        </a>
+
+        <div class="contents">
+            <!--contentlar jamlanmasi-->
+            <div class="content">
+                <img src="assets/images/content_1.png">
+                <p class="content-date"><br><br>20/05/22 <br><br></p>
+                <h2 class="content-header">Semper eu pulvinar eget integer <br><br></h2>
+                <p class="content-description">Pretium duis phasellus netus ac. Nunc nibh nunc integer feugiat et
+                    aliquam cras. Amet pharetra montes
+                    ipsum gravida tellus tellus.</p>
+            </div>
+            <div class="content">
+                <img src="assets/images/content_2.png">
+                <p class="content-date"><br><br>20/02/22 <br><br></p>
+                <h2 class="content-header">Vitae id nec nulla sit nunc cursus curabitur tempus vel enim.<br><br></h2>
+                <p class="content-description">Cras arcu ac commodo suspendisse commodo ipsum turpis dui. Quis pharetra
+                    malesuada eget sit egestas et integer. Suspendisse a.</p>
+            </div>
+            <div class="content">
+                <img src="assets/images/content_3.png">
+                <p class="content-date"><br><br>30/12/21 <br><br></p>
+                <h2 class="content-header">Integer nisi sagittis in aliquet. Enim eget varius lacinia est a.<br><br>
+                </h2>
+                <p class="content-description">Lectus tempus felis pretium vitae. Tempor massa vestibulum condimentum
+                    cursus diam quam. Mattis facilisi dignissim donec eget vel.</p>
+            </div>
+            <div class="content">
+                <img src="assets/images/content_4.png">
+                <p class="content-date"><br><br>29/06/21<br><br></p>
+                <h2 class="content-header">Facilisis vitae proin quis<br><br></h2>
+                <p class="content-description">Iaculis diam quam velit sit nunc turpis ultricies elementum. Vitae
+                    lacinia tristique rutrum faucibus nulla quis ultricies. Risus.</p>
+            </div>
+        </div>
+
+        
     </div>
 </body>
 

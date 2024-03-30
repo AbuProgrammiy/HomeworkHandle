@@ -1,0 +1,120 @@
+.main-window-1 {
+  width: 100%;
+  height: 850px;
+  display: flex;
+  background-image: url(images/background_image.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.central-text {
+  width: 526px;
+  height: 336px;
+  position: relative;
+  top: 290px;
+  left: 180px;
+}
+
+.header-text {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: white;
+}
+
+.description-text {
+  font-size: 16px;
+  font-weight: 200;
+  position: relative;
+  top: 40px;
+  line-height: 20px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.pointer-text {
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  top: 100px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.pointer-circle {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  left: 134px;
+  top: 75px;
+}
+
+
+.pointer-arrow {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  left: 105px;
+  top: 70px;
+}
+
+.main-boxes {
+  width: 386px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #5DB7DE;
+  transition: box-shadow 0.5s ease;
+}
+
+.main-boxes:hover {
+  box-shadow:
+    0 0 20px white,
+    0 10px 20px -5px white,
+    10px 0 20px -5px white,
+    -10px 0 20px -5px white;
+}
+
+.main-boxes-1 {
+  position: relative;
+  top: 223px;
+  left: 360px;
+}
+
+.main-boxes-2 {
+  position: relative;
+  top: 223px;
+  left: 380px;
+}
+
+.main-boxes-3 {
+  position: relative;
+  top: 490px;
+  right: 210px;
+}
+
+.main-boxes-4 {
+  position: relative;
+  top: 490px;
+  right: 185px;
+}
+
+.services-text {
+  font-size: 13px;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-left: 35px;
+  line-height: 18px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.services-description-text{
+  font-size: 19px;
+  font-weight: 700;
+  padding-top: 120px;
+  padding-left: 20px;
+  line-height: 26px;
+  font-family: sans-serif;
+  color: white;
+}

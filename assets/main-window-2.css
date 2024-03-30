@@ -1,0 +1,124 @@
+.main-window-2{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    background-color: white;
+}
+
+.service-links{
+    width: 306px;
+    height: 333px;
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+
+.services-text-header{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 100px;
+}
+
+.services-text-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    font-family: sans-serif;
+    color: purple;
+}
+.services-text-description-link{
+    position: relative;
+    top: 50px;
+    text-decoration: underline dashed purple;   
+    text-underline-offset: 6px; 
+}
+
+.services-text-description-button-1{
+    width: 46px;
+    height: 34px;
+    border-radius: 10px;
+    border: 0px;
+    position: relative;
+    left: 270px;
+    font-family: sans-serif;
+    color: white;
+    background-color: #5DB7DE;
+}
+
+.services-text-description-button-2{
+    width: 46px;
+    height: 34px;
+    border-radius: 10px;
+    border: 0px;
+    position: relative;
+    left: 270px;
+    top: 15px;
+    font-family: sans-serif;
+    color: white;
+    background-color: #5DB7DE;
+}
+
+.service-directions-boxes{
+    width: 416px;
+    height: 223px;
+    border-radius: 20px;
+    background-color: #3D348B;
+    transition: box-shadow 0.5s ease;
+}
+.service-directions-boxes:hover{
+    box-shadow:
+    0 0 20px black,
+    0 10px 20px -5px black,
+    10px 0 20px -5px black,
+    -10px 0 20px -5px black;
+}
+
+.service-directions-boxes-navigator-1{
+    position: relative;
+    top: 150px;
+    left: 300px;
+}
+.service-directions-boxes-navigator-2{
+    position: relative;
+    bottom: 73px;
+    left: 740px;
+}
+.service-directions-boxes-navigator-3{
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+}
+.service-directions-boxes-navigator-4{
+    position: relative;
+    bottom: 273px;
+    left: 740px;
+}
+.service-directions-boxes-navigator-5{
+    position: relative;
+    bottom: 250px;
+    left: 300px;
+}
+.service-directions-boxes-navigator-6{
+    position: relative;
+    bottom: 473px;
+    left: 740px;
+}
+
+.service-directions-header{
+    font-size: 13px;
+    font-weight: 700;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.service-directions-description{
+    font-size: 19px;
+    font-weight: 700;
+    padding-top: 130px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: white;
+}
